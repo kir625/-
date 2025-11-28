@@ -1,0 +1,16 @@
+#head {
+    color: rgb(161, 19, 107);
+}
+#stix {
+    color: rgb(97, 1, 60);
+}
+body {
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+#осн {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
